@@ -1421,6 +1421,9 @@ msgstr "Dirección IP"
 msgid "Stop Hosting Mesh"
 msgstr "Parar de organizar Mesh"
 
+msgid "Leave Mesh"
+msgstr "Salir de Mesh"
+
 ############################################
 # MIDI INSTRUMENTS
 ############################################
