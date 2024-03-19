@@ -434,6 +434,9 @@ msgstr "posición en x"
 msgid "y position"
 msgstr "posición en y"
 
+msgid "%H remote variable value"
+msgstr "%H valor de variable remota"
+
 ############################################
 # USER INTERFACE
 ############################################
