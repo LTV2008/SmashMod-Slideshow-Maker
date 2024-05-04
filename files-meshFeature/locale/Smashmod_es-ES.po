@@ -1427,6 +1427,12 @@ msgstr "Parar de organizar Mesh"
 msgid "Leave Mesh"
 msgstr "Salir de Mesh"
 
+msgid "Go to SmashMod website..."
+msgstr "Ir a sito web SmashMod..."
+
+msgid "To share this online, Please use a cloud drive or file sharing service"
+msgstr "Para compartir esto en línea, utilice una unidad en la cloud o un servicio para compartir archivos"
+
 ############################################
 # MIDI INSTRUMENTS
 ############################################
