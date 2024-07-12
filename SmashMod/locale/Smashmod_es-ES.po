@@ -1370,6 +1370,9 @@ msgstr "Proyecto enviado!"
 msgid "Upload to Scratch Server"
 msgstr "Enviar al servidor de Scratch"
 
+msgid "Go to SmashMod website..."
+msgstr "Ir a sito web SmashMod..."
+
 msgid "Uploading"
 msgstr "Enviando"
 
@@ -1427,11 +1430,8 @@ msgstr "Parar de organizar Mesh"
 msgid "Leave Mesh"
 msgstr "Salir de Mesh"
 
-msgid "Go to SmashMod website..."
-msgstr "Ir a sito web SmashMod..."
-
-msgid "To share this online, Please use a cloud drive or file sharing service"
-msgstr "Para compartir esto en línea, utilice una unidad en la cloud o un servicio para compartir archivos"
+msgid "Sharing has been disabled. To share this online, please use a cloud storage or file sharing service."
+msgstr "Se ha desactivado la función de compartir. Para compartir esto en línea, utilice un servicio de almacenamiento en la nube o de intercambio de archivos."
 
 ############################################
 # MIDI INSTRUMENTS
