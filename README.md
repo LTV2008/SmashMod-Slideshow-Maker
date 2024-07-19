@@ -1,8 +1,8 @@
 # SmashMod-Slideshow-Maker
 
-![SmashMod Logo](/gh-pages/Smash%20Logo.png)
+![SmashMod Logo](/gh-pages/Smash_Logo_small.png)
 
-![SmashMod Logo](/gh-pages/Home.png)
+![SmashMod Logo](/gh-pages/home_small.png)
 
 This is a mod of Scratch 1.4 to make slideshows and is for a mobile device experiment.
 
